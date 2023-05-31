@@ -3,7 +3,11 @@ title: "Saloni's Website"
 output:
   html_document:
     df_print: paged
+    
+   
 ---
 
 Welcome to my website!  
 I am a student at SUSTech, my name is Saloni.
+This is my first website, feel free to take a look!
+<img src="figs/Me.JPG" alt="drawing" width="400"/>
