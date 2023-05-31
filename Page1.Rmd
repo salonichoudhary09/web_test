@@ -37,7 +37,7 @@ List:
 + 2
 
 Insert a figure:  
-<img src="figs/Me" alt="drawing" width="400"/>
+<img src="figs/Me.png" alt="drawing" width="400"/>
 
 Insert a table:  
 
