@@ -34,10 +34,9 @@ List:
 + 1
   - 1.1
   - 1.2
-+ 2
-
++ 
 Insert a figure:  
-<img src="figs/Me.jpeg" alt="drawing" width="400"/>
+<img src="figs/Me.JPG" alt="drawing" width="400"/>
 
 Insert a table:  
 
